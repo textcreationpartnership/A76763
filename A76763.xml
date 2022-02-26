@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more particular and exact relation of the victory obtained by the Parliaments forces under the command of Sir Thomas Fairfax. Wherein divers things very considerable are mentioned, which before are omitted in the severall relations formerly published. Being two letters, / the one written by G.B. a gentleman in the army, unto Lievtenant Colonell Roe, Scoutmaster Generall for the city of London. The other by Colonell Okey to a citizen of London. With the true coppy of a letter of the regaining of Leicester.</title>
+            <author>Bishop, George, gentleman in the Parliamentary army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76763</idno>
+            <idno type="STC">Wing B3019B</idno>
+            <idno type="STC">Thomason E288_38</idno>
+            <idno type="STC">ESTC R200113</idno>
+            <idno type="EEBO-CITATION">99860917</idno>
+            <idno type="PROQUEST">99860917</idno>
+            <idno type="VID">113044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113044)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more particular and exact relation of the victory obtained by the Parliaments forces under the command of Sir Thomas Fairfax. Wherein divers things very considerable are mentioned, which before are omitted in the severall relations formerly published. Being two letters, / the one written by G.B. a gentleman in the army, unto Lievtenant Colonell Roe, Scoutmaster Generall for the city of London. The other by Colonell Okey to a citizen of London. With the true coppy of a letter of the regaining of Leicester.</title>
+                  <author>Bishop, George, gentleman in the Parliamentary army.</author>
+                  <author>Okey, John, d. 1662.</author>
+                  <author>Farmer, Edward, fl. 1645.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G.B. = Captain George Bishop, who has signed his letter on page 5.</note>
+                  <note>The "letter of the regaining of Leicester" is signed: Edward Farmer ("the high shreiffe[sic] of Northamptonshiere").</note>
+                  <note>Annotation on Thomason copy: "June 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113044:1" rendition="simple:additions"/>
+            <p>A MORE PARTICVLAR AND EXACT RELATION OF The Victory obtained by the Parlia<g ref="char:EOLhyphen"/>ments Forces under the Command of Sir <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>WHEREIN Divers things very conſiderable are mentio<g ref="char:EOLhyphen"/>ned, which before are omitted in the ſeverall Relations formerly publiſhed.</p>
+            <p>Being two Letters, the one written by <hi>G. B.</hi> a Gentleman in the Army, unto Lievtenant Colo<g ref="char:EOLhyphen"/>nell <hi>Roe<g ref="char:punc">▪</g>
+               </hi> Scoutmaſter Generall for the City of <hi>LONDON.</hi>
+            </p>
+            <p>The other by Colonell <hi>Okey</hi> to a Ci<g ref="char:EOLhyphen"/>tizen of LONDON.</p>
+            <p>With the true Coppy of a Letter of the re<g ref="char:EOLhyphen"/>gaining of <hi>Leiceſter.</hi>
+            </p>
+            <p>
+               <add>June 19<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113044:2"/>
+            <pb n="1" facs="tcp:113044:2"/>
+            <head>A more particular and exact Relation of the Victory obtained by the Parliaments For<g ref="char:EOLhyphen"/>ces under the Command of Sir <hi>Thomas Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have heard at large I beleeve of the good ſucceſſe God hath given unto us; how hee hath raiſed us out of our graves, and cauſed our dead hopes to live again, by that fearfull overthrow he hath given the Adverſary; the par<g ref="char:EOLhyphen"/>ticulars of which Battail I could give you, but ſuppoſe you have heard it already, therefore I forbear, onely in ſhort thus: About 11 of the clock wee were drawn both Armies into Battalia in <hi>Nasby</hi> fields, a place of little hills and vales, in a direct line equall to both parts, the ground ſome ploughed, ſome Champion. Our Battaile was thus ordered; Lievtenant Generall <hi>Cromwell</hi> commanded all the Horſe, Major Generall <hi>Skippon</hi> the Foot; the Generall not in one place, but every where as occaſion required. In our right Wing of Horſe were the Generalls, (ſometimes Lievtenant Generall <hi>Cromwells,</hi>) Colo<g ref="char:EOLhyphen"/>nell <hi>Whaleys,</hi> Col. <hi>Peys,</hi> Col. <hi>Roſſiters,</hi> Col. <hi>Fines,</hi> and Col. <hi>Sheffields,</hi> Regiments. In the left Wing were Colonell <hi>Iretons,</hi> (who was made Commiſſary Generall of the Horſe in the Field,) Colonell <hi>Fleetwoods,</hi> Col. <hi>Rich,</hi> Col. <hi>Butler,</hi> Col. <hi>
+                  <g ref="char:V">Ʋ</g>ermudens,</hi> and the <hi>Suffolke</hi> Regiments, Dragoons equally divided on both parts. The Infantry thus ordered; in the right Wing, the Generalls, Colonell <hi>Mountagues,</hi> Col. <hi>Pickerings,</hi> Col. Sir <hi>Herdus Wallers</hi> Regiments. In the left, Major Generall <hi>Skip<g ref="char:EOLhyphen"/>pon's,</hi> Colonell <hi>Bartlets,</hi> Col. <hi>Rainsboroughs,</hi> Col. <hi>Hammons</hi> Regiments. The wind was Northweſt, and before we joyned battail, blew ſtiffe, e<g ref="char:EOLhyphen"/>quall on both parts; onely the Enemy had it ſomewhat more advan<g ref="char:EOLhyphen"/>tagious for them: in regard the wind was that way; both Parties ſought to get the winde, which occaſioned our left wing of Horſe, and of Foot, and their right, firſt to engage; where was a moſt terrible diſpute; at length the fury of the Enemy cauſed two Regiments of Horſe to give ground a little, the reſt ſtood, the retreat was upon Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Skippons</hi> Regiment, being the utmoſt of that Wing, and the Regiment next to him; the Enemy purſued, and cam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neere the Train: In the mean time Lievtenant Generall <hi>Cromwell</hi> routed the Kings left Wing, drove them cleare away from that ſide, having made not
+<pb n="2" facs="tcp:113044:3"/>the leaſt retreat; but was like a Torrant driving all before them: In which the Generall charged valiantly, and loſt his Head-piece, who ſee<g ref="char:EOLhyphen"/>ing the left ſcattered, hee with Lievtenant Generall <hi>Cromwell</hi> faced about to that Wing, with ſome Diviſions of Horſe, charged bare headed with<g ref="char:EOLhyphen"/>in puſh of Pike, routed the Enemy; after this, both parts rallyed, and ſtood very neere each other, having ſilence for a ſhort ſpace, but ours ad<g ref="char:EOLhyphen"/>vancing to charge, the Enemy fled, ours purſued them for the ſpace of 14 miles, within two miles of <hi>Leiceſter,</hi> cutting them off as they went; all their Foot were cut off and taken, wee have about 4 or 5000 Priſoners, of Horſe at leaſt 2000. All the traine and Coaches, except the Kings, and <hi>Digbies</hi> Coaches. All their Armes, Proviſions, Ordinance, &amp;c. Bag and Baggage. Abundance of rich plunder for the Souldiers, a<g ref="char:EOLhyphen"/>bout 400 ſlaine in the place, beſides the chaſe; about 50 of ours con<g ref="char:EOLhyphen"/>ceived to be ſlaine: one ſlaine that had a Pluſh Coat, with a Starre in Silver on it, conceived the Duke of <hi>Lenox,</hi> Sir <hi>Marmaduke, Langdale,</hi> the Lord <hi>Grandenſon,</hi> and many other Officers of Note, as we conceive, and are informed, beſides abundance wounded on the place, and 200 car<g ref="char:EOLhyphen"/>ryed that night wounded into <hi>Leiceſter;</hi> many Women ſlaine that were in their Army, and many taken, which are every one wounded. By a Waggoner of the Kings taken, we underſtand that the King was woun<g ref="char:EOLhyphen"/>ded in the Arm, and that he ſaw it bleed, and that at one time our horſe were beyond him.</p>
+            <p>On our part ſlaine, Captain <hi>Tomkins,</hi> Lievtenant Generall <hi>Cromwels</hi> Cornet, Colonell <hi>Whaleys</hi> Cornet, and a few others, but many wounded: <hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi> Major Generall <hi>Skippon</hi> ſhot through the right ſide, Colonell <hi>Ire<g ref="char:EOLhyphen"/>ton</hi> wounded in foure place, but not mortall, Colonell <hi>Butler,</hi> Captain <hi>Blevin,</hi> and many others wounded. Our men came on with brave va<g ref="char:EOLhyphen"/>lour and agility, as could be expected from men, the beſt demonſtrati<g ref="char:EOLhyphen"/>on of the Officers valour is their wounds. I doe not heare of one but diſcharged his Duty: and cannot praiſe one above another, leaſt I ſhould detract from any: Onely, concerning the Generals. Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> never appeared with that alaerity of Spirit, and that plea<g ref="char:EOLhyphen"/>ſant countenance, as then; greatly encouraging his Souldiers, and pro<g ref="char:EOLhyphen"/>miſed by his countenance Victory; before the fight, his former lookes were like a dead man, to what he had when he went to ingage: and the truth is, his very countenance diſcovered an Embleme of true valour, as ever we ſaw; and had a ſpirit heightned above the ordinary Spirit of man, hee was to and againe in the Front, carrying Orders, bringing on Diviſions in midſt of Dangers, with gallant bravery, and received not the leaſt wound; though hee ingaged bare headed, and routed the Enemy.</p>
+            <p>
+               <pb n="3" facs="tcp:113044:3"/>
+That Noble Lievtenant Generall <hi>Cromwell</hi> behaved himſelf to the ut<g ref="char:EOLhyphen"/>moſt; routed the Adverſary as on <hi>Marſton-Moore,</hi> and then relieved our Army on the other Party which was like to bee undone; whom God mightily honoured. And now hath given Prince <hi>Rupert</hi> his other I<g ref="char:EOLhyphen"/>ron-ſide.</p>
+            <p>And as for Major Generall <hi>Skippon,</hi> worthy to bee continually in the beſt thoughts of trueſt Engliſh: behaved himſelfe with that Valour and Gallantry as poſſibly a man could doe: I heard the Generall ſpeak wonderfully to him in his praiſe; with great expreſſions. In the firſt charge he received his wound, ſhot through the right ſide under the Ribbes, through Armour, and Coat, but not mortall, yet notwithſtan<g ref="char:EOLhyphen"/>ding hee kept his Horſe, and diſcharged his place, and would by no meanes bee drawn off till the Field was wonne; for the ſpace of two houres and a half. Truely Sir, you would ſcarce beleeve that undaun<g ref="char:EOLhyphen"/>tedneſſe that was in him. I helped him to a Houſe, and carryed him to his Chamber, ſtript him, and ſaw his wound dreſt; and never beheld ſuch a gallant-Spirit in my life to beare ſuch a wound. And when I ſaid to him, Sir, your wound hath cauſed a little cloud on this glori<g ref="char:EOLhyphen"/>ous day; hee anſwered, by no meanes let mine Ecclipſe its glory, for it is my honour that <hi>I</hi> have received a wound, and it was my God that ſtrengthned mee. Sir, theſe three Generalls I ſuppoſe have not their fellows in the world, all things conſidered.</p>
+            <p>Notwithſtanding our wounded and weary men in this great Battail, which may be the ſaving of the three Kingdomes, and is to us as life from the dead, yet we marched on Lords day laſt to <hi>Great Glinne,</hi> where was our head Quarters the laſt night, about four miles from <hi>Leiceſter.</hi> Lievtena. Gen <hi>Cromwell</hi> with our horſe faced it laſt night; we are at this inſtant drawing to a Rendezvouz, &amp; our General is reſolved to attempt, the Lord appeare as formerly to us; and wee hope that hee will ſo bleſſe our poore deſpiſed Army, that he will make it a Saviour for this Nation. 2500 Horſe of <hi>Derby</hi> and <hi>Nottingham,</hi> &amp;c. are neare to joyn with us, now is the opportunity. The King went not into <hi>Leiceſter,</hi> nor any of the Horſe, ſave the wounded men, but marched through <hi>Elſen</hi> that night: Part towards <hi>Litchfield,</hi> part towards <hi>Newarke:</hi> they left many Portmantles and tired Horſes beyond <hi>Leiceſter.</hi>
+            </p>
+            <p>From the Weſt by one that came from <hi>Bridgewater.</hi> I underſtand that our party were ſafe there on Wedneſday laſt, and have Encamped them<g ref="char:EOLhyphen"/>ſelves on this ſide <hi>Taunton,</hi> they have ſix miles Rainge, hee heard from the Enemy that they were lately releived from <hi>Lyme,</hi> and that they ſaid, if reliefe came not within this fortnight, all would be there owne.</p>
+            <p>
+               <pb facs="tcp:113044:4"/>
+Sir, I had thought to have beene ſhort, yet I have made ſomewhat a large Narration; you will pardon the prolixity of my lines, which cannot bee ſo digeſted in regard of our haſty march: I hope ſhortly to give you a good account of <hi>Leiceſter:</hi> This is all at preſent.</p>
+            <closer>
+               <dateline>
+                  <date>June 16. 1645.</date> 
+                  <hi>Great Glinne.</hi>
+               </dateline>
+               <signed>Your humble Servant George Biſhop.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another Letter from Colonell <hi>Okey</hi> to a Citizen of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving little opportunity and good newes through Gods goodneſſe to ſend unto you, I thought good to neglect no opportunity, but by the firſt convenient meſſenger to ſend to you, that ſo you might receive true intellegence, and might with the reſt of Gods people joyne together in praiſes to the Lord for his infinite Mercy to us in particular, and to all the whole Land in generall, I am not Ignorant that news will come to you of this great Victory before my Letter comes to your hands; But it is my deſire ſo neere as I can to relate to you the certain<g ref="char:EOLhyphen"/>ty of it. After many tedious houers night and day ſince I ſaw you, and Watching every night with my Regiment upon there quarters, having the forelorne guard every night, it pleaſed God that upon Sa<g ref="char:EOLhyphen"/>turday the 14. of this inſtant month between 7 &amp; 8 of the clock in the morning, wee drew neere to a place called <hi>Nasby,</hi> unto <hi>Clypſome</hi> field a mile and halfe from our quarters, where we had the guard the night before; and ſo ſoone as wee came into the field, the Enemy was drawn up into a Battalia ready to give us battell; and ſo ready that had it not pleaſed the Lord of his infinite Mercy to ſhew himſelfe, wee had beene all cut off, for they were ready to advance upon us, be<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:113044:4"/>wee were drawn up into a Battalia for to incounter with them; But our Noble Generall and Leivtenant Generall, <hi>Cromwell,</hi> and ma<g ref="char:EOLhyphen"/>jor Generall <hi>Skippon</hi> were ſo carefull of the great worke in hand; as that they ſoone drew us up into a Body, in ſuch a manner, as that wee were preſently ready to encounter with the Enemy, as the Ene<g ref="char:EOLhyphen"/>my was to fall upon us. For although they had marched in a very ſtately way in a whole Body towards us, thinking thereby to daunt us, or at leaſt to take us before wee were ready to give them entertainement; for they had a very large Body both of Foot and Horſe, but eſpecially of Horſe. I was half a mile be<g ref="char:EOLhyphen"/>hinde in a Medow giving my men Ammunition, and had not the Lievtenant Gen. come preſently, &amp; cauſed me with all ſpeed to mount my men, &amp; flanck our left Wing, which was the Kings right Wing of horſe; where was Prince <hi>Maurice,</hi> who charged at the head of his Regiment, and the King himſelf in the next reſerve charged at the head of his men, but by that time I could get my men to light, and deliver up their Hor<g ref="char:EOLhyphen"/>ſes, in a little cloſe, the Enemy drew towards us: which my men per<g ref="char:EOLhyphen"/>ceiving, they with ſhooting and rejoycing received them, although they were incompaſſed on the one ſide with the Kings Horſe, and on the other ſide with Foot and Horſe to get the Cloſe; but it pleaſed God that wee beat off both the Horſe and the Foot on the left, and the right Wing, and cleared the Field, and kept our ground: When as the Kings Horſe had driven our men a mile before them on the left Wing at their firſt comming on; then wee diſcovered many of the Kings Regiment, by reaſon that they came ſomewhat neare unto us; before ever they diſcharged a Piſtoll at any Horſe; and had not wee by Gods providence been there, there had been but few of Colonell <hi>Butlers</hi> Regiment left, after this wee gave up our ſelves for loſt men, but wee reſolved every man to ſtand to the laſt, and preſently upon it, God of his providence ordered it ſo, that our right Wing, which was Co<g ref="char:EOLhyphen"/>lonel <hi>Cromwell</hi> his Regiment drave the Enemy before them; which I perceiving (after one houres battail) cauſed all my men to mount and to charge into their Foot, which accordingly they did; and took all their Colours, and 500 Priſoners, beſides what wee killed, and all their Armes. After this the King his Horſe drew up into a body againe: and then I drew up my Dragoons, and charged the Kings Regiment of Horſe, and they faced about and run away, and never made any ſtay till they came to <hi>Leiceſter,</hi> and we purſued them within three miles and a halfe of <hi>Leiceſter,</hi> which was about 15 miles from the place where we fought: wee took, as neare as we can gueſſe, between 4 and 5000 men,
+<pb n="6" facs="tcp:113044:5"/>with many Horſe, all their Ordinance, Bag and Baggage; and there was as we were informed, but two Foot men went into <hi>Leiceſter;</hi> the King himſelfe very hardly eſcaped.</p>
+            <p>Now what remaines, but that you and wee ſhould magnifie the name of our God, that did remember a poore handfull of diſpiſed men, whom they had thought to have ſwallowed up before them. And I deſire you, that you would in our behalf bleſſe God that hath made us any inſtruments for our Kingdomes good, and that wee may walke worthy of ſo great a Mercy and Deliverance. And I humbly deſire that Thanks may be given to Almighty God that did ſo miraculouſly deliver us. I loſt not one man, and had but three men wounded in all my Regiment. Thus in haſt I reſt, deſiring the Lord to keepe you and all yours. And remain</p>
+            <closer>
+               <signed>Your Friend to Command <hi>JOHN OKEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A copy of a Letter written from <hi>Northampton,</hi> the 18 of <hi>June,</hi> 1645. at 10 of the clock in the Morning.</head>
+            <byline>By the High Shreiffe of <hi>Northampton ſhiere.</hi>
+            </byline>
+            <opener>
+               <salute>Cozen,</salute>
+            </opener>
+            <p>THe greatneſſe of the late Victory appeares to us that are neare it, every day more and more; the Printed things out with you, being far ſhort of it: we have every day Knights and Colonells freſh brought in. But as an addition to all, this morning we have the great goodneſſe of the regai<g ref="char:EOLhyphen"/>ning <hi>Leiceſter;</hi> the Officers ſo farre as Majors, goe away with their ſingle Horſes and Armes, all under Majors, and the common Souldiers, onely with ſtaves in their hands; all Armes, Ammunition, Ordnance, Bag and Buggage is the Parliaments; the Lord in Heaven make us thankfull. So reſteth</p>
+            <closer>
+               <dateline>Northampton, <date>18 June, 1645.</date> at 10 in the morning.</dateline>
+               <signed>Your very Loving Vncle <hi>Edward Farmer.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
